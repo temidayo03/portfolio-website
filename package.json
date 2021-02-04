@@ -20,6 +20,7 @@
   "homepage": "https://github.com/temidayo03/portfolio-website.git",
   "dependencies": {
     "express": "^4.17.1",
+    "node": "^15.7.0",
     "path": "^0.12.7",
     "winston": "^3.3.3"
   },
